@@ -1,4 +1,4 @@
-// TP#1 - Animando con código
+// TP#1 
 // Agustin Villalba Guillerat (88182/9)
 // Para reiniciar con click izquierdo :D
 
